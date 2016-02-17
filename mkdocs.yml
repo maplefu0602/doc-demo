@@ -1,1 +1,16 @@
 
+site_name: Python tutorial
+site_url: http://nci-gdc.github.io
+repo_url: https://github.com/nci-gdc/gdc-docs
+copyright: "&copy; Python"
+pages:
+- Home: index.md
+- Data Structures:
+  - Using Lists as Stacks: 'data-structures/using-list.md'
+  - The del statement: 'data-structures/del.md'
+  - Dictionaries: 'data-structures/dictionaries.md'
+- Modules:
+  - Standard Modules: 'modules/standard.md'
+  - Packages: 'modules/packages.md'
+  
+  
