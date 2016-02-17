@@ -12,12 +12,19 @@ There is a way to remove an item from a list given its index instead of its valu
 >>> a
 []
 del can also be used to delete entire variables:
-
+(data-structures/del.md)
+(data-structures/dictionaries.md)
+(modules/packages.md)
 >>> del a
 Referencing the name a hereafter is an error (at least until another value is assigned to it). We’ll find other uses for del later.
 
 5.3. Tuples and Sequences
 We saw that lists and strings have many common properties, such as indexing and slicing operations. They are two examples of sequence data types (see Sequence Types — list, tuple, range). Since Python is an evolving language, other sequence data types may be added. There is also another standard sequence data type: the tuple.
+
+
+(/data-structures/del.md)
+(/data-structures/dictionaries.md)
+(/modules/packages.md)
 
 A tuple consists of a number of values separated by commas, for instance:
 
