@@ -2,7 +2,7 @@ Standard Modules
 Python comes with a library of standard modules, described in a separate document, the Python Library Reference (“Library Reference” hereafter). Some modules are built into the interpreter; these provide access to operations that are not part of the core of the language but are nevertheless built in, either for efficiency or to provide access to operating system primitives such as system calls. The set of such modules is a configuration option which also depends on the underlying platform. For example, the winreg module is only provided on Windows systems. One particular module deserves some attention: sys, which is built into every Python interpreter. The variables sys.ps1 and sys.ps2 define the strings used as primary and secondary prompts:
 
 
-[image test]:https://www.google.ca/imgres?imgurl=http://wp.patheos.com.s3.amazonaws.com/blogs/faithwalkers/files/2013/03/bigstock-Test-word-on-white-keyboard-27134336.jpg&imgrefurl=http://www.patheos.com/blogs/faithwalkers/2013/03/learn-how-to-pass-the-faith-test/&h=332&w=500&tbnid=zigCYVW_1WdNkM:&docid=qW7zlZLnlURcWM&ei=_-XFVs2VDob7jgSJj4jIDg&tbm=isch&ved=0ahUKEwiNkeeF04HLAhWGvYMKHYkHAukQMwgxKAAwAA
+[image test](https://www.google.ca/imgres?imgurl=http://wp.patheos.com.s3.amazonaws.com/blogs/faithwalkers/files/2013/03/bigstock-Test-word-on-white-keyboard-27134336.jpg&imgrefurl=http://www.patheos.com/blogs/faithwalkers/2013/03/learn-how-to-pass-the-faith-test/&h=332&w=500&tbnid=zigCYVW_1WdNkM:&docid=qW7zlZLnlURcWM&ei=_-XFVs2VDob7jgSJj4jIDg&tbm=isch&ved=0ahUKEwiNkeeF04HLAhWGvYMKHYkHAukQMwgxKAAwAA)
 
 
 >>> import sys
