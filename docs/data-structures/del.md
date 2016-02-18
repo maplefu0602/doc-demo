@@ -5,6 +5,8 @@ There is a way to remove an item from a list given its index instead of its valu
 test102 18:41 from drupal
 
 
+test201 8:30am from drupal
+
 
 >>> a = [-1, 1, 66.25, 333, 333, 1234.5]
 >>> del a[0]
