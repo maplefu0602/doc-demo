@@ -1,5 +1,51 @@
 Standard Modules
-Python comes with a library of standard modules, described in a separate document, the Python Library Reference (“Library Reference” hereafter). Some modules are built into the interpreter; these provide access to operations that are not part of the core of the language but are nevertheless built in, either for efficiency or to provide access to operating system primitives such as system calls. The set of such modules is a configuration option which also depends on the underlying platform. For example, the winreg module is only provided on Windows systems. One particular module deserves some attention: sys, which is built into every Python interpreter. The variables sys.ps1 and sys.ps2 define the strings used as primary and secondary prompts:
+Headers
+
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
+Emphasis
+
+*This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
+Lists
+
+Unordered
+
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+Ordered
+
+1. Item 1
+2. Item 2
+3. Item 3
+   * Item 3a
+   * Item 3b
+Images
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+Links
+
+http://github.com - automatic!
+[GitHub](http://github.com)
+Blockquotes
+
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+Inline code
+
+I think you should use an
+`<addr>` element here instead.
 
 
 ![image test](http://wp.patheos.com.s3.amazonaws.com/blogs/faithwalkers/files/2013/03/bigstock-Test-word-on-white-keyboard-27134336.jpg)
