@@ -6,6 +6,26 @@ test102 18:41 from drupal
 
 
 test201 8:30am from drupal
+
+
+>>> a = [-1, 1, 66.25, 333, 333, 1234.5]
+>>> del a[0]
+>>> a
+[1, 66.25, 333, 333, 1234.5]
+>>> del a[2:4]
+>>> a
+[1, 66.25, 1234.5]
+>>> del a[:]
+>>> a
+[]
+The del statement
+There is a way to remove an item from a list given its index instead of its value: the del statement. This differs from the pop() method which returns a value. The del statement can also be used to remove slices from a list or clear the entire list (which we did earlier by assignment of an empty list to the slice). For example:
+
+
+test102 18:41 from drupal
+
+
+test201 8:30am from drupal
 test202 8:31am from github
 
 
@@ -43,7 +63,7 @@ del can also be used to delete entire variables:
 
 
 
-(data-structures/del.md)
+(data-structures/del.md)          <========should not be replaced with node id
 (data-structures/dictionaries.md)
 (modules/packages.md)
 
