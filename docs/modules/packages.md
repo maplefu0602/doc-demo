@@ -12,13 +12,22 @@ Packages
 <p><a href="modules/packages.ddd">packages</a></p>
 
 
-[del](data-structures/del.md)
+[del](/data-structures/del.md)
 
 
-[dictionary](data-structures/dictionaries.md)
+[dictionary](/data-structures/dictionaries.md)
 
 
-[packages](modules/packages.md)
+[packages](/modules/packages.md)
+
+==================================
+[del](del.md)
+
+
+[dictionary](dictionaries.md)
+
+
+[packages](packages.md)
 
 
 ![primer minister](pm.jpg)
