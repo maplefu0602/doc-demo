@@ -34,13 +34,6 @@ Packages
 
 ![OICR](Informatics-and-Bio-computing.jpg)
 
-![primer minister](pm.png)
-
-![OICR](Informatics-and-Bio-computing.png)
-
-![primer minister](pm.bmp)
-
-![OICR](Informatics-and-Bio-computing.bmp)
 
 ----------------------------------------
 
