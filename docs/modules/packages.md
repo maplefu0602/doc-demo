@@ -37,4 +37,5 @@ Packages
 (pm.jpg)
 
 ----------------------------------------
+<p><img src="files/gdc-docs/gitdata/doc-demo/docs/modules/pm.jpg">pm.jpg</img></p>
 
